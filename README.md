@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/o3bmBTg.png">
+  <img src="https://i.imgur.com/o3bmBTg.png" style="width: 200px;" />
 </p>
 
 # FixEmail
