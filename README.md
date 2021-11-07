@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/o3bmBTg.png">
+</p>
+
 # FixEmail
 
 ## Install
@@ -74,3 +78,10 @@ validate('emai l@gmail .com')
 // > false
 
 ```
+
+## Todo Implement
+
+- [ ] Remove alias email, after +
+- [ ] Remove accents
+- [ ] Verify is domain is valid
+- [ ] Remove temp emails
